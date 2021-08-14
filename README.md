@@ -1,7 +1,8 @@
 # Hello, I'm C0an! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
 - 🏦 I'm a computing student who specializes in hardware and software.
-- 🤔 I am fluent in using the ```Java``` Language
+- 💻 I'm a System Administrator.
+- 🤔 I am fluent in using the ```Java``` Language.
 - 💬 Feel free to contact me on any of my social platforms!
 
 ---
@@ -27,3 +28,5 @@
 ### 📚 Recent Projects:
 - ⚔ Protocol Network - A Minecraft PvP Network based from MineHQ (https://protocol.rip)
 - 💻 Protocol CheatBreaker - A Minecraft PvP Client for 1.7.10 and 1.8 based from CheatBreaker (https://protocol.rip/client)
+- 🤖 Pilgrim - A Telegram Bot used to obtain information about Minecraft Servers (https://t.me/PilgrimMCBot)
+- 🍎 DawnUHC - A 1.7 - 1.8 UHC Network (https://twitter.com/DawnGameFeed)
