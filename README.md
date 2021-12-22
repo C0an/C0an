@@ -30,3 +30,5 @@
 - 💻 Protocol CheatBreaker - A Minecraft PvP Client for 1.7.10 and 1.8 based from CheatBreaker (https://protocol.rip/client)
 - 🤖 Pilgrim - A Telegram Bot used to obtain information about Minecraft Servers (https://t.me/PilgrimMCBot)
 - 🍎 DawnUHC - A 1.7 - 1.8 UHC Network (https://twitter.com/DawnGameFeed)
+- 🍎 Vanic - A 1.7 - 1.8 UHC Network (https://twitter.com/VanicFeed)
+- 🦊 MineGlobe - A Survival Network (https://mineglobe.org)
