@@ -17,7 +17,6 @@
 ---
 ### Contact me:
 - 🐦 Twitter: https://twitter.com/@C0ans
-- ✈ Telegram: https://t.me/@KillAura
 - 📧 Discord: C0an#1902
 
 ---
