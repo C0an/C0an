@@ -32,3 +32,4 @@
 - 🍎 DawnUHC - A 1.7 - 1.8 UHC Network (https://twitter.com/DawnGameFeed)
 - 🍎 Vanic - A 1.7 - 1.8 UHC Network (https://twitter.com/VanicFeed)
 - 🦊 MineGlobe - A Survival Network (https://mineglobe.org)
+- 🦊 Maritime - A Survival Network (https://discord.maritimemc.net)
