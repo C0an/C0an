@@ -17,8 +17,7 @@
 
 ---
 ### Contact me:
-- 🐦 Twitter: https://twitter.com/@C0ans
-- 📧 Discord: C0an#1902
+- 📧 Discord: C0an#4608
 
 ---
 ### 🐱My Github stats:
