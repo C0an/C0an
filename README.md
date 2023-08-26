@@ -17,8 +17,9 @@
 
 ---
 ### Contact me:
-- 📧 Discord: C0an#0001
-- 🐦 Twitter: @C0ans(https://twitter.com/C0ans)
+- 📧 Discord: tampering
+- 🐦 X (Twitter): [@C0ans](https://x.com/C0ans)
+
 
 ---
 ### 🐱My Github stats:
@@ -26,10 +27,10 @@
 
 ---
 ### 📚 Recent Projects:
-- 🍎 Vanic - A 1.7 - 1.19 UHC Network (https://twitter.com/VanicFeed)
-- ⚔ Protocol Network - A Minecraft PvP Network based from MineHQ (https://protocol.rip)
+- ⚔ Protocol Network - A Minecraft PvP Network for 1.7 - 1.20 (https://protocol.rip)
 - 💻 Protocol CheatBreaker - A Minecraft PvP Client for 1.7.10 and 1.8 based from CheatBreaker (https://protocol.rip/client)
 - 🤖 Pilgrim - A Telegram Bot used to obtain information about Minecraft Servers (https://t.me/PilgrimMCBot)
+- 🍎 Vanic - A 1.7 - 1.19 UHC Network (https://twitter.com/VanicFeed)
 - 🍎 DawnUHC - A 1.7 - 1.8 UHC Network (https://twitter.com/DawnGameFeed)
 - 🦊 MineGlobe - A Survival Network (https://mineglobe.org)
 - 🦊 Maritime - A Survival Network (https://discord.maritimemc.net)
